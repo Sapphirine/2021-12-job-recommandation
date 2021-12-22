@@ -27,5 +27,6 @@ UI for our system.</p>
 <p>This project has been realized for the course EECS 6893</p>
 <p>We devided our system into several parts. Including a RNN model, a SparkML model and job recommandation system website.</p>
 <p>Website: https://salarypredic-g7.herokuapp.com/ </p>
+<p>Our video is also on youtube https://www.youtube.com/watch?v=N35QtZ_q16I</p>
 
 <h3>Wish everyone find their dream job!</h3>
